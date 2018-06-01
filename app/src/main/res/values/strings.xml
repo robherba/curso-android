@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhatsApp Messenger</string>
+    <string name="hint_phone">Escriba el número telefónico...</string>
+    <string name="hint_message">Escriba su mensaje...</string>
+    <string name="send_message">Enviar Mensaje</string>
+</resources>
